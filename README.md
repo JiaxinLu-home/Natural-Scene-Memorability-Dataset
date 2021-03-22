@@ -26,7 +26,7 @@ Random splits: the ground-truth memorability scores of natural scene images in o
 *There are 25 splits of the memorability scores, which are calculated by the experiment results of two group participants.
 
 ## Corresponding training code
-Please see [[Our Release Code]]https://github.com/RenYang-home/Natural-Scene-Memorability).
+Please see [[Our Release Code]](https://github.com/RenYang-home/Natural-Scene-Memorability).
 
 ## Contact
 If you find any bug of our codes or have any question, please do not hesitate to contact:
