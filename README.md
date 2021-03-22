@@ -1,4 +1,5 @@
 # Natural-Scene-Memorability-Dataset
+©2020 IRC-JiaxinLu
 
 The open dataset of the paper:
 
