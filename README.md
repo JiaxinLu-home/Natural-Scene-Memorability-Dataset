@@ -26,10 +26,10 @@ Image_data: outdoor natural scene images.
 
 Random_splits: the ground-truth memorability scores of natural scene images in our database.
 
-Note:There are 25 splits of the memorability scores, which are calculated by the experiment results of two group participants.
+Note: There are 25 splits of the memorability scores, which are calculated by the experiment results of two group participants.
 
-## Corresponding training code
-Please see [Our Release Code](https://github.com/RenYang-home/Natural-Scene-Memorability).
+## Corresponding code
+Please see [Our Released Code](https://github.com/RenYang-home/Natural-Scene-Memorability).
 
 ## Contact
 If you find any bug of our codes or have any question, please do not hesitate to contact:
