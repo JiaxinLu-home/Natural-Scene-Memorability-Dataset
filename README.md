@@ -23,7 +23,9 @@ LNSIM dataset is a large-scale outdoor natural scene image memorability database
 
 ## How to use
 Image_data: outdoor natural scene images.
+
 Random_splits: the ground-truth memorability scores of natural scene images in our database.
+
 Note:There are 25 splits of the memorability scores, which are calculated by the experiment results of two group participants.
 
 ## Corresponding training code
