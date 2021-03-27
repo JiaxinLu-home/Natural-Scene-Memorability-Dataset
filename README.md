@@ -28,7 +28,7 @@ Image_data: outdoor natural scene images.
 Random_splits: the ground-truth memorability scores of natural scene images in our database. Since we intend to train and test models on the memorability scores rated by different subjects, we split the memorability scores of all subjects into two groups and calculate the average scores of each group. We randomly split the scores for 25 times. In each split, the average score of the first and second groups are in "subject_hrs1.mat" and "subject_hrs2.mat", respectively.
 
 ## Corresponding code
-[The test Code](https://github.com/RenYang-home/Natural-Scene-Memorability) of the proposed approach is publicly released.
+[The test code](https://github.com/RenYang-home/Natural-Scene-Memorability) of the proposed approach is publicly released.
 
 ## Contact
 If you find any bug of our codes or have any question, please do not hesitate to contact:
