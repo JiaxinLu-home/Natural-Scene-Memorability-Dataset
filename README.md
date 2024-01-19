@@ -21,6 +21,14 @@ If our paper and dataset are useful for your research, please cite:
 ## LNSIM Dataset
 LNSIM dataset is a large-scale outdoor natural scene image memorability database, containing 2,632 outdoor natural scene images with their ground truth memorability scores. All images are voted by several participants and the memorability scores of these images are obtained by the memory game mentioned in the paper. Moreover, hrs.mat includes the ground-truth memorability score corresponding to each image.
 
+Unzip the images by
+
+```
+cd Images_data
+zip -s- images.zip -O images_all.zip
+unzip images_all.zip
+```
+
 ## How to use
 
 Image_data: outdoor natural scene images.
